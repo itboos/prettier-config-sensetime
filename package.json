@@ -1,0 +1,21 @@
+{
+  "name": "prettier-config-sensetime",
+  "version": "1.0.0",
+  "description": "shared prettier-config in sensetime dcp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zack-zhong",
+  "license": "MIT",
+  "dependencies": {},
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "prettier-config",
+    "sensetime"
+  ]
+}
